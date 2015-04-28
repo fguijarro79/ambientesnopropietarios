@@ -1,0 +1,24 @@
+1.     <? PHP
+         ?>
+
+2.      ;
+
+3.     Para la declaracion de una variable
+
+4.     Utilizando arreglos
+
+5.     Con las sentencias definidas de conversion
+
+6.      verdadero
+        falso
+
+7.      La una indica una variable en decremento la otra en incremento
+
+8.      Si se puede redefinir y se lo hace dentro de la funcion a utilizar haciendo a esta como variable local.
+
+9.      Haciendole a esa variable global
+
+10.    
+
+
+
