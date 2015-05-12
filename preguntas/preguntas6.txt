@@ -20,5 +20,5 @@
 
 
 
-6. es un operador que toma tres argumentos 
+6. es un operador que toma tres argumentos y el resultado puede ser de varios tipos
 
