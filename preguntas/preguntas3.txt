@@ -1,0 +1,13 @@
+1. Servidor
+   Cliente
+   BDD
+
+2. Hipertext model lenguaje
+3. 
+4. Css.- 
+5. revisando en los blog de la comunidad referente a la herramienta
+6. la diferencia entre estas herramientas es que WANP es para windows, MAMP es para mac y LAMP es para linux
+7. Que las dos hacen referencia a que estan en la maquina donde esta corriendo la aplicacion 
+8. Para transferir archivos de diferente indole entre maquinas
+9. Que si daña el codigo por error la aplicacion es mucho mas dificil restablecerla porque al estar en un entorno remoto el tiempo de respuesta
+ es mucho mas largo y los usuarios pierden mas tiempo

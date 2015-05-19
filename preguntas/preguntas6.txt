@@ -1,0 +1,24 @@
+1. null y 1
+
+
+
+
+2.Colocando parentesis en las estructura a evaluar
+
+
+
+3.Respetar la precedencia de signos y agruparlos con parentesis para dar una mejor interpretacion de la sentencia a evaluar
+
+
+
+
+4.se lo utiliza para verificar una igualdad pero con mucho cuidado para que npo emita errores , seria preferible que se lo utilice la identidad normal 00
+
+
+
+5.continue
+
+
+
+6. es un operador que toma tres argumentos y el resultado puede ser de varios tipos
+
