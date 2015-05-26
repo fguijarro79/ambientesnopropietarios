@@ -1,0 +1,6 @@
+0/10
+COPIA: http://www.lawebdelprogramador.com/codigo/PHP/2483-Ejemplo-de-crear-un-simple-calendario.html
+Varios han copiado el código de la misma web aparentemente. 
+Los perjudicados serán ustedes mismos si no practican no aprenden.
+
+La idea de crear archivos separados es para separar lenguajes. Deberías escribir el HTML en el index.php y en el calendario.php solo escribir código PHP. No tiene mucho sentido hacerlo como lo tienes.
