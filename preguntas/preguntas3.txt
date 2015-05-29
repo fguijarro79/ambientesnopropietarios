@@ -2,9 +2,9 @@
    Cliente
    BDD
 
-2. Hipertext model lenguaje
-3. 
-4. Css.- 
+X 2. Hipertext model lenguaje (Hypertext markup language)
+X 3. 
+X 4. Css.- 
 5. revisando en los blog de la comunidad referente a la herramienta
 6. la diferencia entre estas herramientas es que WANP es para windows, MAMP es para mac y LAMP es para linux
 7. Que las dos hacen referencia a que estan en la maquina donde esta corriendo la aplicacion 
